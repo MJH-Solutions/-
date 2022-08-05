@@ -1,1 +1,4 @@
-yahya is the best 
+- jenkins pipeline 
+-docker image 
+-docker container 
+ansible 
